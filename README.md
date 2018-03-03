@@ -1,1 +1,1 @@
-# mat_mod_hw
+Math modeling homework
